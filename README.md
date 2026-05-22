@@ -29,8 +29,7 @@ This application allows users to download YouTube videos in the highest availabl
 ```text
 youtube-video-downloader/
 │
-├── main.py
-├── requirements.txt
+├── video.py
 └── README.md
 ```
 
