@@ -1,5 +1,4 @@
 # Youtube-Video-Downloader
-# YouTube Video Downloader
 
 A GUI-based YouTube Video Downloader built using Python and `yt-dlp`.  
 This application allows users to download YouTube videos in the highest available quality using a simple interface.
